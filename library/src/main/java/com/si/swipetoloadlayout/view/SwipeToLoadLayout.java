@@ -13,7 +13,7 @@ import android.view.ViewGroup;
 import android.widget.AbsListView;
 import android.widget.Scroller;
 
-import com.aspsine.swipetoloadlayout.R;
+import com.si.swipetoloadlayout.R;
 import com.si.swipetoloadlayout.SwipeLoadMoreTrigger;
 import com.si.swipetoloadlayout.SwipeRefreshTrigger;
 import com.si.swipetoloadlayout.SwipeTrigger;

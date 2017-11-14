@@ -1,4 +1,4 @@
-package com.aspsine.swipetoloadlayout;
+package com.si.swipetoloadlayout;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

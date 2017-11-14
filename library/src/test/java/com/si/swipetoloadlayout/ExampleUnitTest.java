@@ -1,4 +1,4 @@
-package com.aspsine.swipetoloadlayout;
+package com.si.swipetoloadlayout;
 
 import org.junit.Test;
 
